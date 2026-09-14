@@ -58,6 +58,7 @@ graph TD
 * 👥 [[👥 Estrutura da Equipe, Organograma e Roster|Estrutura da Equipe, Organograma e Roster Oficial]]
 * 🏆 [[🏆 Regulamento Formula SAE e Provas da Competicao|Regulamento Fórmula SAE, Scrutineering e Provas Estáticas/Dinâmicas]]
 * 📅 [[📅 Ciclo de Engenharia e Temporada SAE|Ciclo de Engenharia em 6 Fases e Entregas Oficiais da SAE]]
+* 🧭 [[🧭 Guia de Git, Branching & Conventional Commits|Guia Oficial de Git, Branching, Pull Requests & Conventional Commits]]
 
 ### 📁 02 - Carro & Engenharia Veicular
 * ⚡ [[⚡ Powertrain, Baterias e Sistema Trativo (Alta Tensao)|Powertrain, Baterias Li-Ion, Inversor e Segurança de Alta Tensão]]
