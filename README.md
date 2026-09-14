@@ -138,30 +138,6 @@ graph TD
 
 ---
 
-## ⚡ Comandos Rápidos
-
-### 1. Plataforma Driverless (ROS 2 & Gazebo Harmonic)
-```bash
-cd "/home/lucaschristen/Documentos/jetbot_ros-master"
-source /opt/ros/jazzy/setup.bash
-# Executar corrida autônoma no circuito fechado com visualizador
-ros2 launch gazebo_gz/launch/jetbot.launch.py world:=track.sdf race:=true
-```
-
-### 2. Software de Telemetria Desktop
-```bash
-cd "/home/lucaschristen/Documentos/UTFPR/Telemetria-Christen-UTFORCE"
-python main.py
-```
-
-### 3. Portal Web & Chatbot
-```bash
-cd "/home/lucaschristen/Documentos/UTFPR/SiteUTForce"
-npm run dev
-```
-
----
-
 * 🔗 Voltar para a [[📋 Central de Meus Projetos|Central de Meus Projetos]]
 * 🏫 Voltar para o módulo de [[🏠 Painel Principal|Painel Principal (UTFPR)]]
 * 🏠 Voltar para o [[🏠 Painel Principal|Painel Principal do Segundo Cérebro]]
